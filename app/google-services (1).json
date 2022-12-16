@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "890312526347",
+    "project_id": "mynotes-589d3",
+    "storage_bucket": "mynotes-589d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890312526347:android:52fec218e4b1190a36950e",
+        "android_client_info": {
+          "package_name": "com.fatiherdem.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890312526347-d9vujtabqj2bopcdmhhkdc4re9o59hst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0TuPdBQr-7uFnbA6Qjpzvv659NuwZAUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890312526347-d9vujtabqj2bopcdmhhkdc4re9o59hst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
